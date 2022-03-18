@@ -7,6 +7,7 @@ import CustomizedTables from "./CustomizedTables";
 function App() {
   return (
       <>
+          <h1>Kalyog !!!</h1>
           <ResponsiveAppBar/>
           <SignUp/>
           <SignIn/>
