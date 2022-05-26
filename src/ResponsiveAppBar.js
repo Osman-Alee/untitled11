@@ -11,7 +11,7 @@ import Avatar from '@mui/material/Avatar';
 import Button from '@mui/material/Button';
 import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
-import SignIn from "./SignIn";
+// import SignIn from "./SignIn";
 
 const pages = ['Products', 'Pricing', 'Blog'];
 const settings = ['SignUp', 'SignIn', 'Dashboard', 'Logout'];
